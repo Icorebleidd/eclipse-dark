@@ -1,0 +1,21 @@
+{
+    "name": "eclipse-dark",
+    "displayName": "Eclipse Dark",
+    "description": "Eclipse Dark for VSCode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Eclipse Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Eclipse Dark-color-theme.json"
+            }
+        ]
+    }
+}
